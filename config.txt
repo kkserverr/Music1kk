@@ -1,6 +1,6 @@
 token=NTA3MzE0MDU1NDkzNTgyODc4.Dru5mA._78l6YCXxHh9sPCYNr_SDp7nrTk
 owner=257804689268146177
 prefix=M-
-game=Type M-Play | M-Help
+game='.Music Minecraft.'
 stayinchannel=true
 songinstatus=true
