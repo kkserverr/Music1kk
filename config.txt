@@ -1,6 +1,6 @@
-token=NTA3MzE0MDU1NDkzNTgyODc4.Dru5mA._78l6YCXxHh9sPCYNr_SDp7nrTk
-owner=257804689268146177
-prefix=M-
-game='.Music Minecraft.'
+token=NTA4NzM3MjM2MzM0ODA0OTk4.DsDmOw.gyaWSN2tSIolTNnJe1KqsgzwEr8
+owner=446798367784435719
+prefix=A
+game=♪~AhmadıllıMusic.'
 stayinchannel=true
 songinstatus=true
